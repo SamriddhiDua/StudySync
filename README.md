@@ -46,10 +46,10 @@ The platform provides an intuitive dashboard for managing study schedules, track
 ## 🖼️ Preview
 
 ### Landing Page
-![Landing Page](images/landing-page.png)
+![Landing Page](home.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 > Add your screenshots inside the `images` folder.
 
