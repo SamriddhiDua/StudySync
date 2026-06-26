@@ -197,8 +197,8 @@ StudySync can be expanded into a full-stack application with:
 
 **Your Name**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/SamriddhiDua
+- LinkedIn: https://linkedin.com/in/samriddhi-dua
 
 ---
 
